@@ -5,10 +5,10 @@ import pyautogui
 import keyboard
 
 pyautogui.PAUSE = 0
+locations = [50,150,250,350]
 
 def begin():
 	locations = [50,150,250,350]
-
 	def GetWindow():
 		xPos = window.winfo_x()+107
 		yPos = window.winfo_y()+32
