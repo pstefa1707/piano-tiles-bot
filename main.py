@@ -5,12 +5,6 @@ import pyautogui
 import keyboard
 
 locations = [50,150,250,350]
-locationKeys = {
-	50:"a",
-	150:"s",
-	250:"d",
-	350:"f"
-}
 
 def GetWindow():
 	xPos = window.winfo_x()+107
