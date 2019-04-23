@@ -1,6 +1,6 @@
 # piano-tiles-bot
-**Designed for http://tanksw.com/piano-tiles/**
-
+**Designed for http://tanksw.com/piano-tiles/**<br><br>
+**Support for Windows and MacOs only!**
 
 **Dependencies:**</br>1. Python 3+</br>2. Keyboard Module `pip install keyboard`</br>3. pyautogui Module `pip install pyautogui`</br>4. Pillow module `pip install pillow`
 
